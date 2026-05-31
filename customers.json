@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Carol White",
+        "phone": "555-0103",
+        "email": "carol@example.com",
+        "balance": 50.0
+    },
+    {
+        "name": "James",
+        "phone": "555-0103",
+        "email": "math@example.com",
+        "balance": 350.0
+    },
+    {
+        "name": "Peter",
+        "phone": "234-0103",
+        "email": "peter@example.com",
+        "balance": 200.0
+    }
+]
